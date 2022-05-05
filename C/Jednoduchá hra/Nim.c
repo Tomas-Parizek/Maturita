@@ -28,7 +28,7 @@ void vyhra()
 void prohra(int zadano)
 {
     system("clear");
-    printf("Prohrál jsi. Počítač vzal posledních %d, a vyhrál.\n\n", zadano);
+    printf("Prohrál jsi. Počítač vzal poslední %d, a vyhrál.\n\n", zadano);
 }
 
 int zadavaPC(int celkovyPocet, int zadano)
