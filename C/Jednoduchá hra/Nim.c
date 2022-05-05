@@ -25,6 +25,12 @@ void vyhra()
     printf("Vyhrál jsi.\n\n");
 }
 
+void prohra(int zadano)
+{
+    system("clear");
+    printf("Prohrál jsi. Počítač vzal posledních %d, a vyhrál.\n\n", zadano);
+}
+
 int zadavaPC(int celkovyPocet, int zadano)
 {
     if (celkovyPocet >= 1 && celkovyPocet <= 3)
@@ -46,7 +52,7 @@ int main()
     for (;;)
     {
         printf("Máš %d kamenů.\n", pocetKamenu);
-        zadano = zadani(1, min(pocetKamenu, 3), "Kolik jich chceš vzít? (1-3: )");
+        zadano = zadani(1, min(pocetKamenu, 3), "Kolik jich chceš vzít? (1-3): ");
         pocetKamenu -= zadano;
 
         if (pocetKamenu == 0)
