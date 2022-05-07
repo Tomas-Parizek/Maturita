@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Práce s poli/1.0.0": {
+        "runtime": {
+          "Práce s poli.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Práce s poli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

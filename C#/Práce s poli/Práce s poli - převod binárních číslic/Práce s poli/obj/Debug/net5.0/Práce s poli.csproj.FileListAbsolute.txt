@@ -1,0 +1,16 @@
+/home/user/RiderProjects/Práce s poli/Práce s poli/bin/Debug/net5.0/Práce s poli
+/home/user/RiderProjects/Práce s poli/Práce s poli/bin/Debug/net5.0/Práce s poli.deps.json
+/home/user/RiderProjects/Práce s poli/Práce s poli/bin/Debug/net5.0/Práce s poli.runtimeconfig.json
+/home/user/RiderProjects/Práce s poli/Práce s poli/bin/Debug/net5.0/Práce s poli.runtimeconfig.dev.json
+/home/user/RiderProjects/Práce s poli/Práce s poli/bin/Debug/net5.0/Práce s poli.dll
+/home/user/RiderProjects/Práce s poli/Práce s poli/bin/Debug/net5.0/ref/Práce s poli.dll
+/home/user/RiderProjects/Práce s poli/Práce s poli/bin/Debug/net5.0/Práce s poli.pdb
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/Práce s poli.csproj.AssemblyReference.cache
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/Práce s poli.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/Práce s poli.AssemblyInfoInputs.cache
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/Práce s poli.AssemblyInfo.cs
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/Práce s poli.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/Práce s poli.dll
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/ref/Práce s poli.dll
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/Práce s poli.pdb
+/home/user/RiderProjects/Práce s poli/Práce s poli/obj/Debug/net5.0/Práce s poli.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Jezdící text/1.0.0": {
+        "runtime": {
+          "Jezdící text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jezdící text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
