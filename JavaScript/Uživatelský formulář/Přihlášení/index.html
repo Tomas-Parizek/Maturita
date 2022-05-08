@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Přihlášení</title>
+    <style>
+        button
+        {
+            width: 100%;
+        }
+
+        #tabulka
+        {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <table id="tabulka" border="1">
+        <tr>
+            <td>
+                <label for="email">
+                    <b>Email:</b>
+                </label>
+            </td>
+            <td><input type="email" id="email" value="@"></td>
+        </tr>
+        <tr>
+            <td>
+                <label for="heslo">
+                    <b>Heslo:</b>
+                </label>
+            </td>
+            <td><input type="password" id="heslo"></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button onclick="odeslat(email.value, heslo.value)">Odeslat</button>
+            </td>
+        </tr>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
