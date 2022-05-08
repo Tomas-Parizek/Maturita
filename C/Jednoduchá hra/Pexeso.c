@@ -89,8 +89,11 @@ int main() {
         }
         else if (karty[prvniVolba] == karty[druhaVolba])
         {
-            odhaleno += 1 << (7 - prvniVolba);
-            odhaleno += 1 << (7 - druhaVolba);
+            if (!((odhaleno >> (7 - prvniVolba))%2))
+            {
+                odhaleno += 1 << (7 - prvniVolba);
+                odhaleno += 1 << (7 - druhaVolba);
+            }
             printf("Perfektní, karta uhodnuta!\n");
             getchar();
             getchar();

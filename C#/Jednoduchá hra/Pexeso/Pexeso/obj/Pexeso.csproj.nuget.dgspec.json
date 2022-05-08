@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/user/RiderProjects/Pexeso/Pexeso/Pexeso.csproj": {}
+    "/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/Pexeso.csproj": {}
   },
   "projects": {
-    "/home/user/RiderProjects/Pexeso/Pexeso/Pexeso.csproj": {
+    "/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/Pexeso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/user/RiderProjects/Pexeso/Pexeso/Pexeso.csproj",
+        "projectUniqueName": "/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/Pexeso.csproj",
         "projectName": "Pexeso",
-        "projectPath": "/home/user/RiderProjects/Pexeso/Pexeso/Pexeso.csproj",
+        "projectPath": "/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/Pexeso.csproj",
         "packagesPath": "/home/user/.nuget/packages/",
-        "outputPath": "/home/user/RiderProjects/Pexeso/Pexeso/obj/",
+        "outputPath": "/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/user/.nuget/NuGet/NuGet.Config"

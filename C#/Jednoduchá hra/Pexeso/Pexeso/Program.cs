@@ -32,8 +32,11 @@ namespace Pexeso
                 }
                 else if (karty[prvniVolba] == karty[druhaVolba])
                 {
-                    odhaleno += (byte) (1 << (7 - prvniVolba));
-                    odhaleno += (byte) (1 << (7 - druhaVolba));
+                    if ((odhaleno >> (7 - prvniVolba)) % 2 != 1)
+                    {
+                        odhaleno += (byte) (1 << (7 - prvniVolba));
+                        odhaleno += (byte) (1 << (7 - druhaVolba));
+                    }
                     Console.WriteLine("Výborně, karta uhodnuta!");
                     Console.ReadKey();
                 }

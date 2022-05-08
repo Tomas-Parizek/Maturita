@@ -14,3 +14,19 @@
 /home/user/RiderProjects/Pexeso/Pexeso/obj/Debug/net5.0/ref/Pexeso.dll
 /home/user/RiderProjects/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.pdb
 /home/user/RiderProjects/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.genruntimeconfig.cache
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/bin/Debug/net5.0/Pexeso
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/bin/Debug/net5.0/Pexeso.deps.json
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/bin/Debug/net5.0/Pexeso.runtimeconfig.json
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/bin/Debug/net5.0/Pexeso.runtimeconfig.dev.json
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/bin/Debug/net5.0/Pexeso.dll
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/bin/Debug/net5.0/ref/Pexeso.dll
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/bin/Debug/net5.0/Pexeso.pdb
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.csproj.AssemblyReference.cache
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.AssemblyInfoInputs.cache
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.AssemblyInfo.cs
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.csproj.CoreCompileInputs.cache
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.dll
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/ref/Pexeso.dll
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.pdb
+/home/user/Škola/Programování/Věci k maturitě/Maturita/C#/Jednoduchá hra/Pexeso/Pexeso/obj/Debug/net5.0/Pexeso.genruntimeconfig.cache
