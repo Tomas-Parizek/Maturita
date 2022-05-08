@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Změna barvy pozadí</title>
+
+    <style>
+        #tabulka
+        {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <table id="tabulka" border="1">
+        <tr>
+            <td>Množství červené</td>
+            <td><input type="range" id="r" min="0" max="255" value="255" onchange="setColor(r.value, g.value, b.value)"></td>
+        </tr>
+        <tr>
+            <td>Množství zelené</td>
+            <td><input type="range" id="g" min="0" max="255" value="255" onchange="setColor(r.value, g.value, b.value)"></td>
+        </tr>
+        <tr>
+            <td>Množství modré</td>
+            <td><input type="range" id="b" min="0" max="255" value="255" onchange="setColor(r.value, g.value, b.value)"></td>
+        </tr>
+        <tr>
+            <td>Kód barvy</td>
+            <td id="kod"></td>
+        </tr>
+    </table>
+    <script src="script.js"></script>
+</body>
+</html>
