@@ -1,0 +1,16 @@
+/home/user/RiderProjects/Nim/Nim/bin/Debug/net5.0/Nim
+/home/user/RiderProjects/Nim/Nim/bin/Debug/net5.0/Nim.deps.json
+/home/user/RiderProjects/Nim/Nim/bin/Debug/net5.0/Nim.runtimeconfig.json
+/home/user/RiderProjects/Nim/Nim/bin/Debug/net5.0/Nim.runtimeconfig.dev.json
+/home/user/RiderProjects/Nim/Nim/bin/Debug/net5.0/Nim.dll
+/home/user/RiderProjects/Nim/Nim/bin/Debug/net5.0/ref/Nim.dll
+/home/user/RiderProjects/Nim/Nim/bin/Debug/net5.0/Nim.pdb
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/Nim.csproj.AssemblyReference.cache
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/Nim.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/Nim.AssemblyInfoInputs.cache
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/Nim.AssemblyInfo.cs
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/Nim.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/Nim.dll
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/ref/Nim.dll
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/Nim.pdb
+/home/user/RiderProjects/Nim/Nim/obj/Debug/net5.0/Nim.genruntimeconfig.cache
